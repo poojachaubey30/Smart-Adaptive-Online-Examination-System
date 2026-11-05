@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/build/generated-sources/ap-source-output/web/proctoring.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/adminProctoringLogs.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/StartExamServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/login.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/addQuestion.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/dao/ExamDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/model/Admin.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/ExamListServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/AddExamServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/adminLogin.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/result.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/student/startExam.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/model/Question.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/ViewProctoringLogsServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/model/Student.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/adminLogin.css</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/dao/AdminDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/proctoring.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/db/DBConnection.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/ProctoringLogServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/dao/SubjectDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/build/generated-sources/ap-source-output/web/student/profile.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/build/generated-sources/ap-source-output/web/login.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/viewResults.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/LogoutServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/model/Exam.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/LoginServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/SubmitExamServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/build/generated-sources/ap-source-output/web/register.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/viewExam.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/build/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/addExam.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/model/Subject.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/addSubject.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/AddQuestionServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/dao/QuestionDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/build/generated-sources/ap-source-output/web/student/startExam.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/viewStudents.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/src/java/servlet/AdminLogoutServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/studentDashboard.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/login.css</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/student/examList.jsp</file>
+            <file>file:/C:/Users/LENOVO/Desktops/NetBeansProjects/OnlineExaminationSystem1/web/student/profile.jsp</file>
+        </group>
+    </open-files>
+</project-private>

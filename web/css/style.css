@@ -1,0 +1,215 @@
+/* =======================
+   RESET
+======================= */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI, Arial, sans-serif;
+}
+
+body{
+    background:#f4f7fc;
+    color:#333;
+}
+
+/* =======================
+   HEADER
+======================= */
+
+header{
+    background:#0d47a1;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 60px;
+    position:sticky;
+    top:0;
+}
+
+.logo h2{
+    color:white;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:25px;
+    font-size:17px;
+    transition:0.3s;
+}
+
+nav a:hover{
+    color:#ffd54f;
+}
+
+/* =======================
+   HERO
+======================= */
+
+.hero{
+    text-align:center;
+    padding:90px 30px;
+    background:linear-gradient(to right,#1565c0,#42a5f5);
+    color:white;
+}
+
+.hero h1{
+    font-size:45px;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:20px;
+    margin-bottom:35px;
+}
+
+.buttons button{
+    padding:14px 28px;
+    margin:10px;
+    border:none;
+    border-radius:8px;
+    background:white;
+    color:#1565c0;
+    font-size:16px;
+    cursor:pointer;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.buttons button:hover{
+    background:#0d47a1;
+    color:white;
+}
+
+/* =======================
+   ABOUT
+======================= */
+
+.about{
+    padding:70px;
+    text-align:center;
+}
+
+.about h2{
+    color:#1565c0;
+    margin-bottom:20px;
+}
+
+.about p{
+    max-width:900px;
+    margin:auto;
+    line-height:28px;
+}
+
+/* =======================
+   FEATURES
+======================= */
+
+.features{
+    background:#eef4fb;
+    padding:70px;
+    text-align:center;
+}
+
+.features h2{
+    margin-bottom:40px;
+    color:#1565c0;
+}
+
+.feature-container{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:25px;
+}
+
+.card{
+    width:300px;
+    background:white;
+    border-radius:12px;
+    padding:25px;
+    box-shadow:0px 4px 12px rgba(0,0,0,.15);
+    transition:.4s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+
+.card h3{
+    color:#1565c0;
+    margin-bottom:15px;
+}
+
+.card p{
+    line-height:24px;
+}
+
+/* =======================
+   STATISTICS
+======================= */
+
+.statistics{
+    padding:70px;
+    text-align:center;
+}
+
+.statistics h2{
+    color:#1565c0;
+    margin-bottom:40px;
+}
+
+.stats-container{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    flex-wrap:wrap;
+}
+
+.stat-box{
+    background:#1565c0;
+    color:white;
+    width:220px;
+    padding:30px;
+    border-radius:10px;
+}
+
+.stat-box h1{
+    font-size:40px;
+}
+
+/* =======================
+   CONTACT
+======================= */
+
+.contact{
+    background:white;
+    padding:70px;
+    text-align:center;
+}
+
+.contact h2{
+    color:#1565c0;
+    margin-bottom:20px;
+}
+
+.contact p{
+    margin:10px;
+}
+
+/* =======================
+   FOOTER
+======================= */
+
+footer{
+    background:#0d47a1;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+footer p{
+    margin:8px;
+}
